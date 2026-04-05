@@ -123,13 +123,11 @@ multi-format-log-analyzer/
 ## Egwu Donatus Achema
 cybersecurity Analyst | Python Developer
 
-**GitHub:** [@Don-cybertech]
-
-(https://github.com/Don-cybertech)
+**GitHub:** [@Don-cybertech](https://github.com/Don-cybertech)
 
 **LinkedIn:** (https://www.linkedin.com/in/egwu-donatus-achema-8a9251378/)
 
-**Gmail:**(donatusachema@gmail.com)
+**Gmail:** (donatusachema@gmail.com)
 
 **Part of:** Cybersecurity Portfolio
 
