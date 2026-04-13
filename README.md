@@ -129,7 +129,5 @@ cybersecurity Analyst | Python Developer
 
 **Gmail:** (donatusachema@gmail.com)
 
-**Part of:** Cybersecurity Portfolio
-
 **Don-cybertech**  
 Cybersecurity Portfolio — [github.com/Don-cybertech](https://github.com/Don-cybertech)
